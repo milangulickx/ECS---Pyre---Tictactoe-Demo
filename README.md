@@ -1,4 +1,4 @@
-# ECS---Pyre---Tictactoe-Demo
+# ECS-Pyre-Tictactoe Demo
 
 ## Install Pyre with Python 3
 
